@@ -1,0 +1,59 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Uncle Tom's Cabin; Or, Life Among the Lowly</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Stowe, Harriet Beecher">Harriet Beecher Stowe</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">c84d8e70-c6d8-4884-af72-eff110537cab</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">cb37fb69-e6a3-4c53-9cce-b3e26c01b2e8</dc:identifier>
+    <meta content="{&quot;Harriet Beecher Stowe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Uncle Tom's Cabin; Or, Life Among the Lowly"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="Title.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="preface.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="1-5.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="6-12.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="13-17.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="18.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="19-22.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="23-34.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="35-37.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="38-34.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="responses.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id7" media-type="text/css"/>
+    <item href="001.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="cover-Recovered.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="plate1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="plate2.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="plate3.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="plate4.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="plate5.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="plate6.jpg" id="id17" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id8"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id6"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id14"/>
+    <itemref idref="id16"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide/>
+</package>
